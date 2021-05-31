@@ -1,20 +1,48 @@
 {
-    "name": "googleguy",
-    "displayName": "googleGuy",
-    "description": "Google inspired vscode theme",
+    "name": "googolplex-theme",
+    "displayName": "Googolplex Theme",
+    "description": "A Google inspired visual studio code theme that focuses on simplicity and concentration",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
-    "categories": [
+    "publisher": "renxzen",
+    "bugs": {
+        "url": "https://github.com/renxzen/googolplexTheme/issues"
+    },
+    "homepage": "https://github.com/renxzen/googolplexTheme",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/renxzen/googolplexTheme.git"
+    },
+    "author": {
+        "name": "Renzo Mondragón"
+    },
+	"categories": [
         "Themes"
     ],
+	"keywords": [
+        "google",
+        "theme",
+        "googolplex",
+        "monokai"
+    ],
+	"icon": "img/logo.png",
+    "galleryBanner": {
+        "color": "#272822",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Google Theme",
+                "label": "Googolplex Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Google Theme-color-theme.json"
+                "path": "./themes/Google-Theme-color-theme.json"
+            },
+			{
+                "label": "Googolplex Theme (Muted)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Google-Theme-muted-color-theme.json"
             }
         ]
     }

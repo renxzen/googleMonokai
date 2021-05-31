@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "googleguy"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Googolplex Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a Visual Studio Code theme that was made inspired on the four colors of Google (blue, red, yellow and green).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This theme focuses on simplicity and concentration. It forces you to keep reading the code and while doing that, your capability of retention increases. It's heavily based on Monokai ST3 by volosovich but removing the extra distracting colors. The editor also has the background colors of Google Colaboratory Dark.
 
-**Enjoy!**
+
+## **Examples!**
+
+### Python:
+![Python](img/python.png)
+
+### JavaScript:
+![JavaScript](img/javascript.png)
+
+### Golang:
+![GoLang](img/golang.png)
+
+### C++:
+![C++](img/cpp.png)
