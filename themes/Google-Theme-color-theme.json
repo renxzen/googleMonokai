@@ -475,7 +475,14 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#e0d572"
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "Markup paragraph",
+			"scope": "meta.paragraph.markdown",
+			"settings": {
+				"foreground": "#DEDEDC"
 			}
 		},
 		{
@@ -490,14 +497,14 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FD971F"
+				"foreground": "#E0D572"
 			}
 		},
 		{
 			"name": "Markup Headings",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#9AD12B"
+				"foreground": "#5BC0D4"
 			}
 		},
 		{
