@@ -2,7 +2,7 @@
     "name": "googolplex-theme",
     "displayName": "Googolplex Theme",
     "description": "A Google inspired visual studio code theme that focuses on simplicity and concentration",
-    "version": "0.2.2",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.56.0"
     },

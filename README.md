@@ -6,14 +6,17 @@ This theme focuses on simplicity and concentration. It forces you to keep readin
 
 ## **Examples!**
 
-### Python:
-![Python](img/python.png)
-
 ### JavaScript:
 ![JavaScript](img/javascript.png)
+
+### Python:
+![Python](img/python.png)
 
 ### Golang:
 ![GoLang](img/golang.png)
 
 ### C++:
 ![C++](img/cpp.png)
+
+### Java:
+![Java](img/java.png)

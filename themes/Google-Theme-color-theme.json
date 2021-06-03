@@ -322,13 +322,6 @@
 			}
 		},
 		{
-			"name": "Function name",
-			"scope": "entity.name.function.member",
-			"settings": {
-				"foreground": "#9AD12B"
-			}
-		},
-		{
 			"name": "operators in c++",
 			"scope": "entity.name.function.operator.member",
 			"settings": {
@@ -637,6 +630,90 @@
 			"scope": "entity.name.function.decorator.python",
 			"settings": {
 				"foreground": "#5BC0D4"
+			}
+		},
+		{
+			"name": "CSS property value",
+			"scope": "support.constant.property-value.css",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "CSS property name",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "CSS property name",
+			"scope": "keyword.other.unit.px.css,keyword.other.unit.percentage.css,keyword.other.important.css",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "CSS atribute name",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#5BC0D4"
+			}
+		},
+		{
+			"name": "CPP name function call",
+			"scope": "entity.name.function.member",
+			"settings": {
+				"foreground": "#9AD12B"
+			}
+		},
+		{
+			"name": "CPP keyword",
+			"scope": "keyword.other.unit.suffix.floating-point.cpp",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "Constant Language",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "Class Templated",
+			"scope": "entity.name.type.class.templated",
+			"settings": {
+				"foreground": "#5BC0D4"
+			}
+		}, // 
+		{
+			"name": "Preprocessor",
+			"scope": "entity.name.function.preprocessor",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		}, // 
+		{
+			"name": "function templated",
+			"scope": "entity.name.function.templated",
+			"settings": {
+				"foreground": "#DEDEDC"
+			}
+		},
+		{
+			"name": "function definition",
+			"scope": "entity.name.function.definition.cpp",
+			"settings": {
+				"foreground": "#9AD12B"
+			}
+		},
+		{
+			"name": "inherited python",
+			"scope": "entity.other.inherited-class.python",
+			"settings": {
+				"foreground": "#DEDEDC"
 			}
 		},
 	]
