@@ -1,8 +1,8 @@
 {
     "name": "googolplex-theme",
-    "displayName": "Googolplex Theme",
-    "description": "A Google inspired visual studio code theme that focuses on simplicity and concentration",
-    "version": "0.3.0",
+    "displayName": "Googolplex",
+    "description": "A Google inspired visual studio code theme that focuses on simplicity and concentration. Monokai-based colors with eye-strain solution modifications.",
+    "version": "0.5.0",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -26,6 +26,10 @@
         "theme",
         "googolplex",
         "monokai",
+		"sublime",
+		"ST3",
+		"concentration",
+		"productivity",
 		"renxzen"
     ],
 	"icon": "img/logo.png",
@@ -36,7 +40,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Googolplex Theme",
+                "label": "Googolplex",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Google-Theme-color-theme.json"
             }
