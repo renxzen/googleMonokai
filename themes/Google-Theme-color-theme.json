@@ -150,7 +150,7 @@
 				"entity.name.type.class.templated",
 			],
 			"settings": {
-				"foreground": "#5BC0D4"
+				"foreground": "#52adbf" // 5BC0D4
 			}
 		},
 		{
@@ -183,7 +183,7 @@
 				//"meta.function.decorator.python",
 			],
 			"settings": {
-				"foreground": "#9AD12B"
+				"foreground": "#8bbc27" // 9AD12B
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 				"markup.quote",
 			],
 			"settings": {
-				"foreground": "#E63375"
+				"foreground": "#E63375" // E63375
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 				"entity.name.type.instance.jsdoc",
 			],
 			"settings": {
-				"foreground": "#525252"
+				"foreground": "#525252" // 525252
 			}
 		},
 	]
