@@ -40,7 +40,7 @@
 		"list.focusBackground": "#313131",
 		"list.highlightForeground": "#D4D4D4",
 		"list.hoverBackground": "#1e1e1ea8",
-		"list.inactiveSelectionBackground": "#1e1e1e",
+		"list.inactiveSelectionBackground": "#525252", // cell bg
 		"panel.border": "#313131",
 		"panelTitle.activeBorder": "#525252",
 		"panelTitle.activeForeground": "#D4D4D4",
