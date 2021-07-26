@@ -19,6 +19,7 @@
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#D4D4D4",
 		"editor.lineHighlightBackground": "#52525200",
+		"editor.lineHighlightBorder":"#31313100",
 		"editor.selectionBackground": "#3a3d41",
 		"editorCursor.foreground": "#D4D4D4",
 		"editorGroup.border": "#313131",
@@ -40,7 +41,9 @@
 		"list.focusBackground": "#313131",
 		"list.highlightForeground": "#D4D4D4",
 		"list.hoverBackground": "#1e1e1ea8",
-		"list.inactiveSelectionBackground": "#525252", // cell bg
+		"list.inactiveSelectionBackground": "#1e1e1e",
+		"notebook.cellBorderColor": "#525252",
+		"notebook.focusedCellBackground": "#1e1e1e",
 		"panel.border": "#313131",
 		"panelTitle.activeBorder": "#525252",
 		"panelTitle.activeForeground": "#D4D4D4",
