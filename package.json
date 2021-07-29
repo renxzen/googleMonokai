@@ -1,8 +1,8 @@
 {
     "name": "googolplex-theme",
     "displayName": "Googolplex",
-    "description": "A Google inspired visual studio code theme that focuses on simplicity and concentration. Monokai-based colors with eye-strain solution modifications.",
-    "version": "0.6.0",
+    "description": "A Google inspired VS code monokai theme that focuses on simplicity, concentration and helps eye-strain.",
+    "version": "0.6.9",
     "engines": {
         "vscode": "^1.56.0"
     },
