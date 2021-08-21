@@ -57,7 +57,7 @@
 		"peekViewTitle.background": "#383838",
 		"pickerGroup.foreground": "#525252",
 		"progressBar.background": "#525252",
-		"selection.background": "#D4D4D4",
+		"selection.background": "#525252",
 		"sideBar.background": "#383838",
 		"sideBarSectionHeader.background": "#222222",
 		"statusBar.background": "#252525",
@@ -120,7 +120,8 @@
 				"entity.other.inherited-class.ts",
 				"storage.type.function.arrow.ts",
 				"punctuation.definition.template-expression.begin.ts",
-				"punctuation.definition.template-expression.end.ts"
+				"punctuation.definition.template-expression.end.ts",
+				"keyword.control.ternary"
 			],
 			"settings": {
 				"foreground": "#D4D4D4"
@@ -159,6 +160,7 @@
 				"entity.other.attribute-name.class.css",
 				"entity.name.type.class.templated",
 				"storage.modifier.ts",
+				"keyword.operator.instanceof.java"
 			],
 			"settings": {
 				"foreground": "#52adbf" // 5BC0D4
@@ -189,6 +191,7 @@
 				"entity.name.function.member",
 				"entity.name.function.definition.cpp",
 				"entity.name.function.decorator.python",
+				"punctuation.definition.annotation.java",
 				"support.type.python", //"meta.function.decorator.python",
 			],
 			"settings": {
@@ -223,6 +226,8 @@
 				"variable.other.jsdoc",
 				"string.quoted.docstring.multi.python",
 				"entity.name.type.instance.jsdoc",
+				"keyword.other.documentation.javadoc.java",
+				"comment.block.javadoc.java"
 			],
 			"settings": {
 				"foreground": "#525252" // 525252
