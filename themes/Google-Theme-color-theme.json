@@ -2,15 +2,15 @@
 //   #1e1e1e (editor background)
 //   #313131 (selection)
 //   #525252 (focus)
-//   #D4D4D4 (editor foreground)
+//   #ecf6f8 (editor foreground)
 {
 	"type": "dark",
 	// "semanticHighlighting": true,
 	"colors": {
 		"activityBar.background": "#252525",
-		"activityBar.foreground": "#D4D4D4",
+		"activityBar.foreground": "#ecf6f8",
 		"badge.background": "#525252",
-		"badge.foreground": "#D4D4D4",
+		"badge.foreground": "#ecf6f8",
 		"breadcrumb.foreground": "#525252",
 		"button.background": "#525252",
 		"debugToolBar.background": "#383838",
@@ -18,11 +18,16 @@
 		"diffEditor.removedTextBackground": "#8C224880",
 		"dropdown.background": "#383838",
 		"editor.background": "#1e1e1e",
-		"editor.foreground": "#D4D4D4",
-		"editor.lineHighlightBackground": "#52525200",
-		"editor.lineHighlightBorder": "#31313100",
-		"editor.selectionBackground": "#3a3d41",
-		"editorCursor.foreground": "#D4D4D4",
+		"editor.findMatchBackground": "#313131",
+        "editor.findMatchHighlightBackground": "#313131",
+		"editor.findRangeHighlightBackground": "#313131",
+		"editor.foreground": "#ecf6f8",
+		"editor.lineHighlightBackground": "#313131",
+		"editor.lineHighlightBorder": "#313131",
+		"editor.selectionBackground": "#313131",
+		"editor.selectionHighlightBackground": "#313131",
+		"editor.selectionHighlightBorder": "#313131",
+		"editorCursor.foreground": "#ecf6f8",
 		"editorGroup.border": "#313131",
 		"editorGroup.dropBackground": "#31313180",
 		"editorGroupHeader.tabsBackground": "#383838",
@@ -40,14 +45,14 @@
 		"list.activeSelectionBackground": "#1e1e1e",
 		"list.dropBackground": "#313131",
 		"list.focusBackground": "#313131",
-		"list.highlightForeground": "#D4D4D4",
+		"list.highlightForeground": "#ecf6f8",
 		"list.hoverBackground": "#1e1e1ea8",
 		"list.inactiveSelectionBackground": "#1e1e1e",
 		"notebook.cellBorderColor": "#525252",
 		"notebook.focusedCellBackground": "#1e1e1e",
 		"panel.border": "#313131",
 		"panelTitle.activeBorder": "#525252",
-		"panelTitle.activeForeground": "#D4D4D4",
+		"panelTitle.activeForeground": "#ecf6f8",
 		"panelTitle.inactiveForeground": "#525252",
 		"peekView.border": "#525252",
 		"peekViewEditor.background": "#1e1e1e",
@@ -64,11 +69,11 @@
 		"statusBar.background": "#252525",
 		"statusBar.debuggingBackground": "#525252",
 		"statusBar.noFolderBackground": "#313131",
-		"tab.activeBackground": "#525252",
-		"tab.activeBorder": "#D4D4D4",
+		"tab.activeBackground": "#1e1e1e",
+		"tab.activeBorder": "#1e1e1e",
 		"tab.border": "#383838",
 		"tab.inactiveBackground": "#313131",
-		"tab.inactiveForeground": "#D4D4D4", // bright
+		"tab.inactiveForeground": "#ecf6f8", // bright
 		"tab.unfocusedActiveBorder": "#525252",
 		"titleBar.activeBackground": "#252525",
 		"widget.shadow": "#000000"
@@ -128,7 +133,7 @@
 				"punctuation.definition.string.end.json"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ecf6f8"
 			}
 		},
 		{
@@ -167,10 +172,14 @@
 				"keyword.operator.instanceof.java",
 				"storage.type.modifier.access.control.public.cpp",
 				"storage.type.modifier.access.control.private.cpp",
-				"storage.type.modifier.access.control.protected.cpp"
+				"storage.type.modifier.access.control.protected.cpp",
+				"keyword.other.var.cs",
+				"storage.modifier.cs",
+				"keyword.type.cs",
+				"entity.name.type.class.cs"
 			],
 			"settings": {
-				"foreground": "#52adbf" // 5BC0D4
+				"foreground": "#52ADBF"
 			}
 		},
 		{
@@ -202,13 +211,13 @@
 				"entity.name.function.definition.cpp",
 				"entity.name.function.decorator.python",
 				"punctuation.definition.annotation.java",
-				"support.type.python", //"meta.function.decorator.python"
+				"support.type.python",
 				"punctuation.definition.decorator.python",
 				"entity.name.function.js",
 				"entity.name.type.class.ts"
 			],
 			"settings": {
-				"foreground": "#8bbc27" // 9AD12B
+				"foreground": "#8BBC27"
 			}
 		},
 		{
@@ -224,10 +233,11 @@
 				"storage",
 				"markup.deleted",
 				"markup.quote",
-				"keyword.operator.logical"
+				"keyword.operator.logical",
+				"punctuation.definition.directive.cpp"
 			],
 			"settings": {
-				"foreground": "#E63375" // E63375
+				"foreground": "#E63375"
 			}
 		},
 		{
@@ -245,7 +255,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#525252" // 525252
+				"foreground": "#525252"
 			}
 		}
 	]
