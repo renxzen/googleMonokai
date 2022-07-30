@@ -2,7 +2,7 @@
     "name": "googolplex-theme",
     "displayName": "Googolplex",
     "description": "A Google inspired VS code monokai theme that focuses on simplicity, concentration and helps eye-strain.",
-    "version": "0.7.5",
+    "version": "0.7.6",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -11,28 +11,28 @@
         "url": "https://github.com/renxzen/googolplexTheme/issues"
     },
     "homepage": "https://github.com/renxzen/googolplexTheme",
-	"repository": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/renxzen/googolplexTheme.git"
     },
     "author": {
         "name": "Renzo Mondragón"
     },
-	"categories": [
+    "categories": [
         "Themes"
     ],
-	"keywords": [
+    "keywords": [
         "google",
         "theme",
         "googolplex",
         "monokai",
-		"sublime",
-		"ST3",
-		"concentration",
-		"productivity",
-		"renxzen"
+        "sublime",
+        "ST3",
+        "concentration",
+        "productivity",
+        "renxzen"
     ],
-	"icon": "img/logo.png",
+    "icon": "img/logo.png",
     "galleryBanner": {
         "color": "#272822",
         "theme": "dark"
