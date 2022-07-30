@@ -19,10 +19,10 @@
 		"dropdown.background": "#383838",
 		"editor.background": "#1e1e1e",
 		"editor.findMatchBackground": "#313131",
-        "editor.findMatchHighlightBackground": "#313131",
+		"editor.findMatchHighlightBackground": "#313131",
 		"editor.findRangeHighlightBackground": "#313131",
 		"editor.foreground": "#ecf6f8",
-		"editor.lineHighlightBackground": "#313131",
+		"editor.lineHighlightBackground": "#31313100",
 		"editor.lineHighlightBorder": "#313131",
 		"editor.selectionBackground": "#313131",
 		"editor.selectionHighlightBackground": "#313131",
@@ -173,6 +173,11 @@
 				"storage.type.modifier.access.control.public.cpp",
 				"storage.type.modifier.access.control.private.cpp",
 				"storage.type.modifier.access.control.protected.cpp",
+				"meta.function-call.ts entity.name.function.ts",
+				"meta.function-call.js entity.name.function.js",
+				"meta.function.call.rust entity.name.function.rust",
+				"entity.name.function.macro.rust",
+				// "entity.name.function.member.cpp",
 				"keyword.other.var.cs",
 				"storage.modifier.cs",
 				"keyword.type.cs",
@@ -213,6 +218,8 @@
 				"punctuation.definition.annotation.java",
 				"support.type.python",
 				"punctuation.definition.decorator.python",
+				"meta.method.identifier.java entity.name.function.java",
+				"entity.name.type.class.cpp",
 				"entity.name.function.js",
 				"entity.name.type.class.ts"
 			],
@@ -234,7 +241,9 @@
 				"markup.deleted",
 				"markup.quote",
 				"keyword.operator.logical",
-				"punctuation.definition.directive.cpp"
+				"punctuation.definition.directive.cpp",
+				"keyword.operator.instanceof.java",
+				"keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#E63375"
@@ -252,11 +261,11 @@
 				"entity.name.type.instance.jsdoc",
 				"keyword.other.documentation.javadoc.java",
 				"comment.block.javadoc.java",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
 			],
 			"settings": {
 				"foreground": "#525252"
 			}
 		}
-	]
+	],
 }
