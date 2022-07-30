@@ -175,6 +175,8 @@
 				"storage.type.modifier.access.control.protected.cpp",
 				"meta.function-call.ts entity.name.function.ts",
 				"meta.function-call.js entity.name.function.js",
+				"meta.function-call.tsx entity.name.function.tsx",
+				"meta.function-call.jsx entity.name.function.jsx",
 				"meta.function.call.rust entity.name.function.rust",
 				"entity.name.function.macro.rust",
 				// "entity.name.function.member.cpp",
@@ -243,6 +245,7 @@
 				"keyword.operator.logical",
 				"punctuation.definition.directive.cpp",
 				"keyword.operator.instanceof.java",
+				"storage.modifier.async",
 				"keyword.operator.new"
 			],
 			"settings": {
