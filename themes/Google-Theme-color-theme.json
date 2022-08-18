@@ -183,7 +183,8 @@
 				"keyword.other.var.cs",
 				"storage.modifier.cs",
 				"keyword.type.cs",
-				"entity.name.type.class.cs"
+				"entity.name.type.class.cs",
+				"storage.modifier.js"
 			],
 			"settings": {
 				"foreground": "#52ADBF"
@@ -223,7 +224,18 @@
 				"meta.method.identifier.java entity.name.function.java",
 				"entity.name.type.class.cpp",
 				"entity.name.function.js",
-				"entity.name.type.class.ts"
+				"entity.name.type.class.ts",
+				"meta.decorator.ts meta.function-call.ts entity.name.function.ts",
+				"punctuation.decorator.ts",
+				"meta.decorator.ts variable.other.readwrite.ts",
+				"meta.decorator.js meta.function-call.js entity.name.function.js",
+				"punctuation.decorator.js",
+				"meta.decorator.js variable.other.readwrite.js",
+				"meta.attribute.rust",
+				"meta.attribute.rust punctuation.brackets.attribute.rust",
+				"meta.attribute.rust punctuation.definition.attribute.rust",
+				"meta.attribute.rust punctuation.brackets.round.rust",
+				"meta.attribute.rust entity.name.type.rust",
 			],
 			"settings": {
 				"foreground": "#8BBC27"
