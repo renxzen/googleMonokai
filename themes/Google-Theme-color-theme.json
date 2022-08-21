@@ -134,6 +134,7 @@
 				"meta.ng-binding.property.html expression.ng variable.other.readwrite.ts",
 				"meta.ng-binding.template.html expression.ng variable.other.readwrite.ts",
 				"meta.ng-binding.template.html expression.ng entity.name.type.ts",
+				"meta.decorator.ts meta.objectliteral.ts variable.other.readwrite.ts",
 			],
 			"settings": {
 				"foreground": "#ecf6f8"
