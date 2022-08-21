@@ -76,7 +76,7 @@
 		"tab.inactiveForeground": "#ecf6f8", // bright
 		"tab.unfocusedActiveBorder": "#525252",
 		"titleBar.activeBackground": "#252525",
-		"widget.shadow": "#000000"
+		"widget.shadow": "#000000",
 	},
 	"tokenColors": [
 		{
@@ -130,7 +130,10 @@
 				"keyword.control.ternary",
 				"punctuation",
 				"punctuation.definition.string.begin.json",
-				"punctuation.definition.string.end.json"
+				"punctuation.definition.string.end.json",
+				"meta.ng-binding.property.html expression.ng variable.other.readwrite.ts",
+				"meta.ng-binding.template.html expression.ng variable.other.readwrite.ts",
+				"meta.ng-binding.template.html expression.ng entity.name.type.ts",
 			],
 			"settings": {
 				"foreground": "#ecf6f8"
@@ -184,7 +187,12 @@
 				"storage.modifier.cs",
 				"keyword.type.cs",
 				"entity.name.type.class.cs",
-				"storage.modifier.js"
+				"storage.modifier.js",
+				"meta.ng-binding.template.html expression.ng keyword.operator.expression.of.ts",
+				"meta.ng-binding.event.html expression.ng entity.name.function.ts",
+				"meta.decorator.ts meta.object.member.ts meta.function-call.ts entity.name.function.ts",
+				"text.html.derivative expression.ng entity.name.function.ts",
+				"text.html expression.ng entity.name.function.ts"
 			],
 			"settings": {
 				"foreground": "#52ADBF"
@@ -199,7 +207,7 @@
 				"markup.inline.raw",
 				"punctuation.definition.string.begin",
 				"punctuation.definition.string.end",
-				"punctuation.definition.raw.markdown"
+				"punctuation.definition.raw.markdown",
 			],
 			"settings": {
 				"foreground": "#E0D572"
@@ -236,6 +244,7 @@
 				"meta.attribute.rust punctuation.definition.attribute.rust",
 				"meta.attribute.rust punctuation.brackets.round.rust",
 				"meta.attribute.rust entity.name.type.rust",
+				"meta.class.ts entity.other.inherited-class.ts"
 			],
 			"settings": {
 				"foreground": "#8BBC27"
@@ -258,7 +267,7 @@
 				"punctuation.definition.directive.cpp",
 				"keyword.operator.instanceof.java",
 				"storage.modifier.async",
-				"keyword.operator.new"
+				"keyword.operator.new",
 			],
 			"settings": {
 				"foreground": "#E63375"
