@@ -14,9 +14,6 @@ Additionally, i made Javascript and Typescript slightly different so i know the 
 ### TypeScript:
 ![TypeScript](img/typescript.png)
 
-### JavaScript:
-![JavaScript](img/javascript.png)
-
 ### Golang:
 ![GoLang](img/golang.png)
 
