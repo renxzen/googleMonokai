@@ -13,15 +13,15 @@
 		"tab.activeBackground": "#1e1e1e",
 		"tab.activeBorder": "#1e1e1e",
 		// white
-		"activityBar.foreground": "#ecf6f8",
-		"badge.foreground": "#ecf6f8",
-		"editor.foreground": "#ecf6f8",
-		"editorCursor.foreground": "#ecf6f8",
-		"list.highlightForeground": "#ecf6f8",
-		"panelTitle.activeForeground": "#ecf6f8",
-		"sideBarTitle.foreground": "#ecf6f8",
-		"statusBar.foreground": "#ecf6f8",
-		"tab.inactiveForeground": "#ecf6f8",
+		"activityBar.foreground": "#ecece6",
+		"badge.foreground": "#ecece6",
+		"editor.foreground": "#ecece6",
+		"editorCursor.foreground": "#ecece6",
+		"list.highlightForeground": "#ecece6",
+		"panelTitle.activeForeground": "#ecece6",
+		"sideBarTitle.foreground": "#ecece6",
+		"statusBar.foreground": "#ecece6",
+		"tab.inactiveForeground": "#ecece6",
 		// light gray
 		"badge.background": "#525252",
 		"breadcrumb.foreground": "#525252",
@@ -144,7 +144,7 @@
 				"meta.decorator.ts meta.objectliteral.ts variable.other.readwrite.ts",
 			],
 			"settings": {
-				"foreground": "#ecf6f8"
+				"foreground": "#ecece6"
 			}
 		},
 		{
@@ -190,7 +190,6 @@
 				"meta.function-call.jsx entity.name.function.jsx",
 				"meta.function.call.rust entity.name.function.rust",
 				"entity.name.function.macro.rust",
-				// "entity.name.function.member.cpp",
 				"keyword.other.var.cs",
 				"storage.modifier.cs",
 				"keyword.type.cs",
@@ -200,10 +199,10 @@
 				"meta.ng-binding.event.html expression.ng entity.name.function.ts",
 				"meta.decorator.ts meta.object.member.ts meta.function-call.ts entity.name.function.ts",
 				"text.html.derivative expression.ng entity.name.function.ts",
-				"text.html expression.ng entity.name.function.ts"
+				"text.html expression.ng entity.name.function.ts",
 			],
 			"settings": {
-				"foreground": "#52ADBF"
+				"foreground": "#51adbf"
 			}
 		},
 		{
@@ -218,7 +217,7 @@
 				"punctuation.definition.raw.markdown",
 			],
 			"settings": {
-				"foreground": "#E0D572"
+				"foreground": "#e2d560"
 			}
 		},
 		{
@@ -238,7 +237,6 @@
 				"support.type.python",
 				"punctuation.definition.decorator.python",
 				"meta.method.identifier.java entity.name.function.java",
-				"entity.name.type.class.cpp",
 				"entity.name.function.js",
 				"entity.name.type.class.ts",
 				"meta.decorator.ts meta.function-call.ts entity.name.function.ts",
@@ -252,10 +250,10 @@
 				"meta.attribute.rust punctuation.definition.attribute.rust",
 				"meta.attribute.rust punctuation.brackets.round.rust",
 				"meta.attribute.rust entity.name.type.rust",
-				"meta.class.ts entity.other.inherited-class.ts"
+				"meta.class.ts entity.other.inherited-class.ts",
 			],
 			"settings": {
-				"foreground": "#8BBC27"
+				"foreground": "#95cb29"
 			}
 		},
 		{
@@ -278,7 +276,7 @@
 				"keyword.operator.new",
 			],
 			"settings": {
-				"foreground": "#E63375"
+				"foreground": "#e02266"
 			}
 		},
 		{
@@ -296,7 +294,7 @@
 				"punctuation.definition.comment",
 			],
 			"settings": {
-				"foreground": "#525252"
+				"foreground": "#696969"
 			}
 		}
 	],
