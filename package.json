@@ -1,19 +1,19 @@
 {
-    "name": "googolplex-theme",
-    "displayName": "Googolplex",
+    "name": "google-monokai-theme",
+    "displayName": "Google Monokai",
     "description": "A Google inspired VS code monokai theme that focuses on simplicity, concentration and helps eye-strain.",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "engines": {
         "vscode": "^1.56.0"
     },
     "publisher": "renxzen",
     "bugs": {
-        "url": "https://github.com/renxzen/googolplexTheme/issues"
+        "url": "https://github.com/renxzen/googleMonokaiVscodeTheme/issues"
     },
-    "homepage": "https://github.com/renxzen/googolplexTheme",
+    "homepage": "https://github.com/renxzen/googleMonokaiVscodeTheme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/renxzen/googolplexTheme.git"
+        "url": "https://github.com/renxzen/googleMonokaiVscodeTheme.git"
     },
     "author": {
         "name": "Renzo Mondragón"
@@ -32,7 +32,7 @@
         "productivity",
         "renxzen"
     ],
-    "icon": "img/logo.png",
+    "icon": "img/logo.jpg",
     "galleryBanner": {
         "color": "#272822",
         "theme": "dark"

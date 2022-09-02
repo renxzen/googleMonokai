@@ -1,13 +1,16 @@
 # Change Log
 
-## [0.7.3] - 2020-06-29
+## [0.8.1] - 2022-09-02
 
 ### Added
 
 - C# support
 - Better C++ support
+- Better javascript/typescript support
 
 ### Changed
 
 - White color
 - Selection backgrounds
+- Better comments
+- Blue color on inline angular templates and react jsx
