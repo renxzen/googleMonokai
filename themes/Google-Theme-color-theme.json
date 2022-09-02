@@ -200,7 +200,14 @@
 				"meta.ng-binding.event.html expression.ng entity.name.function.ts",
 				"meta.decorator.ts meta.object.member.ts meta.function-call.ts entity.name.function.ts",
 				"text.html.derivative expression.ng entity.name.function.ts",
-				"text.html expression.ng entity.name.function.ts"
+				"text.html expression.ng entity.name.function.ts",
+				"keyword.operator.expression.of.js",
+				"keyword.operator.expression.of.ts",
+				"keyword.operator.expression.of.jsx",
+				"keyword.operator.expression.of.tsx",
+				"entity.name.tag.js.jsx",
+				"entity.name.tag.tsx",
+				"entity.name.tag.html"
 			],
 			"settings": {
 				"foreground": "#52ADBF"
