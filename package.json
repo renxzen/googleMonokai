@@ -2,7 +2,7 @@
     "name": "google-monokai-theme",
     "displayName": "Google Monokai",
     "description": "A Google inspired VS code monokai theme that focuses on simplicity, concentration and helps eye-strain.",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -32,7 +32,7 @@
         "productivity",
         "renxzen"
     ],
-    "icon": "img/logo.jpg",
+    "icon": "img/logo.png",
     "galleryBanner": {
         "color": "#272822",
         "theme": "dark"
