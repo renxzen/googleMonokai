@@ -40,7 +40,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Googolplex",
+                "label": "Google Monokai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Google-Theme-color-theme.json"
             }
