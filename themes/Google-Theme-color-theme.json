@@ -57,7 +57,7 @@
 		"editor.findMatchHighlightBackground": "#313131",
 		"editor.findRangeHighlightBackground": "#313131",
 		"editor.lineHighlightBorder": "#313131",
-		"editor.selectionBackground": "#313131",
+		"editor.selectionBackground": "#95cb294f",
 		"editor.selectionHighlightBackground": "#313131",
 		"editor.selectionHighlightBorder": "#313131",
 		"editorGroup.border": "#313131",
