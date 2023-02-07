@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.8.4] - 2023-02-07
+
+### Changed
+
+- Selection color changed
+
 ## [0.8.3] - 2022-09-02
 
 ### Added
