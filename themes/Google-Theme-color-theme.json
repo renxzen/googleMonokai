@@ -209,6 +209,17 @@
 				"entity.name.tag.tsx",
 				"entity.name.tag.html",
 				"entity.name.function.tagged-template.js",
+				"storage.modifier.static.cs",
+				"storage.modifier.public.cs",
+				"storage.modifier.private.cs",
+				"keyword.type.int.cs",
+				"keyword.type.string.cs",
+				"keyword.type.bool.cs",
+				"keyword.type.float.cs",
+				"keyword.type.double.cs",
+				"keyword.type.char.cs",
+				"keyword.type.long.cs",
+				"storage.modifier.const.cs",
 			],
 			"settings": {
 				"foreground": "#51adbf"
@@ -285,6 +296,7 @@
 				"keyword.operator.new",
 				"punctuation.definition.template-expression.begin.ts",
 				"punctuation.definition.template-expression.end.ts",
+				"keyword.operator.expression.new.cs",
 			],
 			"settings": {
 				"foreground": "#e02266"
