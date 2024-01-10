@@ -31,7 +31,7 @@
 		"focusBorder": "#525252",
 		"inputOption.activeBorder": "#525252",
 		"editorHoverWidget.border": "#525252",
-		"editorIndentGuide.background": "#525252",
+		"editorIndentGuide.background1": "#525252",
 		"editorLineNumber.foreground": "#525252",
 		"notebook.cellBorderColor": "#525252",
 		"panelTitle.activeBorder": "#525252",
