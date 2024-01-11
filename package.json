@@ -41,7 +41,7 @@
 		"themes": [
 			{
 				"label": "Google Monokai",
-				"uiTheme": "vs-dark",
+				"uiTheme": "hc-black",
 				"path": "./themes/Google-Theme-color-theme.json"
 			}
 		]
