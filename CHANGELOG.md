@@ -1,5 +1,14 @@
 # Change Log
 
+## [0.8.5] - 2024-01-11
+
+### Changed
+
+- Selection color changed
+- Changed theme to high contrast for selectionForeground to work
+- Added some c# tokens
+- Added some javascript tokens
+
 ## [0.8.4] - 2023-02-07
 
 ### Changed

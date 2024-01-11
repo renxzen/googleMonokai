@@ -2,7 +2,7 @@
 	"name": "google-monokai-theme",
 	"displayName": "Google Monokai",
 	"description": "A Google inspired VS code monokai theme that focuses on simplicity, concentration and helps eye-strain.",
-	"version": "0.8.4",
+	"version": "0.8.5",
 	"engines": {
 		"vscode": "^1.56.0"
 	},
