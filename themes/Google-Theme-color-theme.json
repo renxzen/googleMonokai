@@ -12,6 +12,10 @@
 		"statusBar.background": "#1e1e1e",
 		"tab.activeBackground": "#1e1e1e",
 		"tab.activeBorder": "#1e1e1e",
+		"statusBar.debuggingBorder": "#1e1e1e",
+		"contrastBorder": "#1e1e1e",
+		"window.activeBorder": "#1e1e1e",
+		"contrastActiveBorder": "#1e1e1e",
 		// white
 		"activityBar.foreground": "#ecece6",
 		"badge.foreground": "#ecece6",
@@ -22,6 +26,7 @@
 		"sideBarTitle.foreground": "#ecece6",
 		"statusBar.foreground": "#ecece6",
 		"tab.inactiveForeground": "#ecece6",
+		"editor.selectionForeground": "#ecece6",
 		// light gray
 		"badge.background": "#525252",
 		"breadcrumb.foreground": "#525252",
@@ -45,6 +50,7 @@
 		"statusBar.debuggingBackground": "#525252",
 		"tab.unfocusedActiveBorder": "#525252",
 		"tab.border": "#525252",
+		"editor.selectionBackground": "#525252",
 		// gray
 		"debugToolBar.background": "#383838",
 		"dropdown.background": "#383838",
@@ -57,7 +63,6 @@
 		"editor.findMatchHighlightBackground": "#313131",
 		"editor.findRangeHighlightBackground": "#313131",
 		"editor.lineHighlightBorder": "#313131",
-		"editor.selectionBackground": "#95cb294f",
 		"editor.selectionHighlightBackground": "#313131",
 		"editor.selectionHighlightBorder": "#685f5f",
 		"editorGroup.border": "#313131",
@@ -297,6 +302,7 @@
 				"punctuation.definition.template-expression.begin.ts",
 				"punctuation.definition.template-expression.end.ts",
 				"keyword.operator.expression.new.cs",
+				"storage.type.namespace.cs",
 			],
 			"settings": {
 				"foreground": "#e02266"
