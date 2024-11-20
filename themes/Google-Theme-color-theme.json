@@ -38,6 +38,7 @@
 		"editorHoverWidget.border": "#525252",
 		"editorIndentGuide.background1": "#525252",
 		"editorLineNumber.foreground": "#525252",
+		"editorLineNumber.activeForeground": "#525252",
 		"notebook.cellBorderColor": "#525252",
 		"panelTitle.activeBorder": "#525252",
 		"panelTitle.inactiveForeground": "#525252",
@@ -51,6 +52,9 @@
 		"tab.unfocusedActiveBorder": "#525252",
 		"tab.border": "#525252",
 		"editor.selectionBackground": "#525252",
+		"scrollbarSlider.background": "#525252",
+		"scrollbarSlider.hoverBackground": "#525252",
+		"scrollbarSlider.activeBackground": "#525252",
 		// gray
 		"debugToolBar.background": "#383838",
 		"dropdown.background": "#383838",
@@ -60,10 +64,10 @@
 		"peekViewTitle.background": "#383838",
 		// dark gray
 		"editor.findMatchBackground": "#313131",
-		"editor.findMatchHighlightBackground": "#313131",
-		"editor.findRangeHighlightBackground": "#313131",
+		"editor.findMatchHighlightBackground": "#31313188",
+		"editor.findRangeHighlightBackground": "#31313188",
 		"editor.lineHighlightBorder": "#313131",
-		"editor.selectionHighlightBackground": "#313131",
+		"editor.selectionHighlightBackground": "#31313188",
 		"editor.selectionHighlightBorder": "#685f5f",
 		"editorGroup.border": "#313131",
 		"editorHoverWidget.background": "#313131",
@@ -225,6 +229,10 @@
 				"keyword.type.char.cs",
 				"keyword.type.long.cs",
 				"storage.modifier.const.cs",
+				"entity.name.function.support.go",
+				"entity.name.function.support.builtin.go",
+				"entity.name.function.call.cpp",
+				"entity.name.function.member.cpp",
 			],
 			"settings": {
 				"foreground": "#51adbf"
@@ -240,6 +248,7 @@
 				"punctuation.definition.string.begin",
 				"punctuation.definition.string.end",
 				"punctuation.definition.raw.markdown",
+				"entity.name.import.go",
 			],
 			"settings": {
 				"foreground": "#e2d560"
@@ -276,6 +285,8 @@
 				"meta.attribute.rust punctuation.brackets.round.rust",
 				"meta.attribute.rust entity.name.type.rust",
 				"meta.class.ts entity.other.inherited-class.ts",
+				"entity.name.type.class.java",
+				"entity.other.inherited-class.java",
 			],
 			"settings": {
 				"foreground": "#95cb29"
