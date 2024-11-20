@@ -6,22 +6,22 @@ This theme focuses on simplicity and concentration. It forces you to keep readin
 
 ## **Examples!**
 
+### C++:
+
+![C++](img/cpp.png)
+
 ### Python:
 
 ![Python](img/python.png)
 
 ### TypeScript:
 
-![TypeScript](img/typescript.png)
+![TypeScript](img/typescript-javascript.png)
 
 ### Golang:
 
-![GoLang](img/golang.png)
+![Go](img/go.png)
 
 ### Java:
 
 ![Java](img/java.png)
-
-### C++:
-
-![C++](img/cpp.png)
