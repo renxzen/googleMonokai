@@ -6,22 +6,18 @@ This theme focuses on simplicity and concentration. It forces you to keep readin
 
 ## **Examples!**
 
-### C++:
+### Go/Java:
 
-![C++](img/cpp.png)
+![Go/Java](img/go-java.png)
 
-### Python:
+### Javascript/TypeScript:
 
-![Python](img/python.png)
+![Javascript/TypeScript](img/typescript-javascript.png)
 
-### TypeScript:
+### C++/Rust:
 
-![TypeScript](img/typescript-javascript.png)
+![C++/Rust](img/cpp-rust.png)
 
-### Golang:
+### Python/Lua:
 
-![Go](img/go.png)
-
-### Java:
-
-![Java](img/java.png)
+![Python/Lua](img/python-lua.png)

@@ -152,6 +152,7 @@
 				"meta.embedded.block.html",
 				"storage.type.function.arrow.js",
 				"meta.item-access.python meta.indexed-name.python",
+				"entity.name.class.lua",
 			],
 			"settings": {
 				"foreground": "#ecece6"
@@ -258,6 +259,9 @@
 				"storage.modifier.mut.rust",
 				"entity.name.type.numeric.rust",
 				"entity.name.type.primitive.rust",
+				"support.function.lua",
+				"support.function.library.lua",
+				"support.function.any-method.lua",
 			],
 			"settings": {
 				"foreground": "#51adbf"
@@ -330,6 +334,7 @@
 				"entity.name.type.struct.rust",
 				"entity.name.type.trait.rust",
 				"meta.function.definition.rust entity.name.function.rust",
+				"entity.name.function.lua",
 				// "entity.name.type.class.templated.cpp",
 				// "entity.name.type.class.templated.cpp",
 				// "entity.name.type.class.templated.cpp",
@@ -368,6 +373,8 @@
 				"meta.class.java storage.modifier.extends.java",
 				"keyword.operator.expression.instanceof.ts",
 				"storage.modifier.rust",
+				"storage.modifier.implements.java",
+				"meta.use.rust keyword.other.rust",
 			],
 			"settings": {
 				"foreground": "#e02266"

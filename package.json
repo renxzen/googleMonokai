@@ -45,5 +45,8 @@
 				"path": "./themes/Google-Theme-color-theme.json"
 			}
 		]
-	}
+	},
+    "scripts": {
+        "package": "npx @vscode/vsce package"
+    }
 }
